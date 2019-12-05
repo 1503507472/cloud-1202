@@ -1,0 +1,14 @@
+# Project exclude paths
+/common/target/
+/config-server/target/
+/config-server02/target/
+/eureka/target/
+/eureka02/target/
+/feign-consumer/target/
+/provider/target/
+/ribbon-consmuser/target/
+/zuul/target/
+
+.idea
+*.iml
+*.ipr
